@@ -9,9 +9,9 @@
 </p>
 <br>
 
-<!-- <p align="center">
-<img alt="" src="" width="100%">
-</p> -->
+<p align="center">
+<img alt="Imagem do projeto Alura Books" src="https://github.com/regianegaspar/alura-books2/blob/main/imagens/Alurabooks.PNG" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
